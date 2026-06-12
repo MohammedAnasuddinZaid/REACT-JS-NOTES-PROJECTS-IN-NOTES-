@@ -30,7 +30,7 @@ function App() {
       <h2>COUNTER VALUE: {counter} </h2>
       <br></br>
       <button
-      onClick={addclick}>Add Value {counter}</button>
+      onClick={addclick}   >Add Value {counter}</button>
       <br></br>
       <button onClick={removeclick}>Decrease Value {counter}</button>
       <p>{counter}</p>

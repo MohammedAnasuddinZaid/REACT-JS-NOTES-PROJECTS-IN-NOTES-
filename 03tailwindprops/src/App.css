@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 .counter {
   font-size: 16px;
   padding: 5px 10px;
@@ -181,11 +183,4 @@
     right: 0;
     border-right-color: var(--border);
   }
-}
-
-button{
-  width: 200px;        
-  padding: 10px 20px; 
-  display: block;      
-  margin: 10px auto  ; 
 }
